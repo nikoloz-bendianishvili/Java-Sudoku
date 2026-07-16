@@ -1,0 +1,12 @@
+out/
+target/
+*.class
+*.jar
+*.log
+
+# Local IDE state
+.idea/
+*.iml
+
+# Local reference material
+HW03SudokuDB.pdf
